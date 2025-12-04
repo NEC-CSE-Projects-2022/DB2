@@ -1,4 +1,4 @@
-# Team 12 – HybridBERT + Metadata Deep Learning Model for Twitter Bot Detection
+# Team DB2 – HybridBERT + Metadata Deep Learning Model for Twitter Bot Detection
 
 ## Team Info
 - **22471A05O1 — Shaik Shakeer Ahamad** 
