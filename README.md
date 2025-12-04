@@ -22,7 +22,7 @@ This work presents a hybrid bot-detection system that merges BERT-based text rep
 ## Paper Reference (Inspiration)
 **Paper:**  
 A Deep Learning Approach for Robust Detection of Bots in Twitter Using Transformers  
-Authors: Subhabrata Mukherjee et al.  
+Authors: J.K. Periasamy; R Srinidhi; S Srividhya
 Paper Link: (https://ieeexplore.ieee.org/document/10040412/)
 
 ---
